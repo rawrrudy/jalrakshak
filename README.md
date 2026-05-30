@@ -1,8 +1,8 @@
 # JalRakshak
 
-JalRakshak is an AI powered smart water monitoring and management system designed to improve water safety, sustainability, and accessibility through real time environmental intelligence.
+JalRakshak is a smart water monitoring and management system designed to improve water safety, sustainability, and accessibility through real time environmental intelligence.
 
-The system combines IoT sensors, embedded hardware, and AI based analytics to monitor water quality, detect anomalies, and provide predictive insights for smarter water management.
+The system combines IoT sensors, embedded hardware, and analytics to monitor water quality, detect anomalies, and provide predictive insights for smarter water management.
 
 ## Problem
 
