@@ -23,7 +23,7 @@ This folder contains the ESP32 firmware for the JalRakshak water monitoring syst
 
 ## Hardware that has been used in JalRakshak project
 
-- ESP32 DevKit V1
+- ESP32-WROOM-32
 - DS18B20 Temperature Sensor
 - HC-SR04 Ultrasonic Sensor
 - Gravity TDS Sensor
