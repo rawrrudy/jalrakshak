@@ -1,0 +1,13 @@
+EMAIL_ADDRESS = "rudrasundgikar@gmail.com"
+EMAIL_PASSWORD = "hjrknxcyfvwcnuqa"
+
+PH_MIN = 6.5
+PH_MAX = 8.5
+
+TURBIDITY_LIMIT = 20
+
+TEMPERATURE_LIMIT = 40
+
+TDS_LIMIT = 500
+
+WATER_LEVEL_LIMIT = 80
