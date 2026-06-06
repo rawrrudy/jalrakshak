@@ -77,14 +77,22 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 # Images
 
 <details>
-<summary><b>📦 3D Model</b></summary>
+<summary><b> 3D Model</b></summary>
 
 <br>
 
 <p align="center">
-  <img src="docs/images/JalRakshak_Exploded.png" width="700">
+  <img src="docs/images/JalRakshak_Final_Side.png" width="700">
   <br>
   <em>Fully assembled JalRakshak enclosure.</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="docs/JalRakshak_Exploded.png" width="700">
+  <br>
+  <em>Exploded view showing internal components.</em>
 </p>
   
   
