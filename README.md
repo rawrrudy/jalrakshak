@@ -124,6 +124,26 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 </p>
 
 
+<details>
+<summary><b> Other essentials </b></summary>
+
+<br>
+
+<p align="center">
+  <img src="docs/images/JalRakshak_FinalIMG2.png" width="700">
+  <br>
+  <em>Other visual of JalRakshak.</em>
+</p>
+
+<p align="center">
+  <img src="docs/images/JalRakshak_Final_BottomView.png" width="700">
+  <br>
+  <em>Visuals of all the probes of JalRakshak.</em>
+</p>
+
+
+
+
 
 
 
