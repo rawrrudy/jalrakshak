@@ -36,4 +36,10 @@ JalRakshak is an ESP32 powered water quality monitoring device, that continously
  A basic 3D outline of JalRakshak V1
 </p>
 
+# Why was JalRakshak made?
+
+Water pollution is one of the biggest challenges to the environment in recent days. Not only does it affect aquatic fauna, it can also cause significant damage to humans due to unhygenic conditions of water. This issue is widespread in rural areas, especially in the country I am from, India. To help combat this issue, even at a significantly smaller scale, JalRakshak was created. Attached is a link to a credible source which discusses the major problems caused due to water pollution - 
+
+https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2022.880246/full
+
 
