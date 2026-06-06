@@ -122,6 +122,7 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
   <br>
   <em>Frontend dashboard of JalRakshak website.</em>
 </p>
+</details>
 
 
 <details>
@@ -140,6 +141,7 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
   <br>
   <em>Visuals of all the probes of JalRakshak.</em>
 </p>
+</details>
 
 
 
