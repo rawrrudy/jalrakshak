@@ -55,6 +55,9 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 - Custom CAD optimised to float on water
 
 # PCB
+<p align="center">
+  <img src="hardware/pcb/JalRakshak_PCB.png" width="800">
+</p>
 
 
 
