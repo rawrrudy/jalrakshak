@@ -12,6 +12,7 @@
   An ESP-32 powered "floating" water monitoring device with pH, Temperature, TDS and Turbidity sensors!
 </p>
 
+
 # Index
 
 ### [What is JalRakshak?](#what-is-jalrakshak)
@@ -24,7 +25,3 @@
 ### [License](#license)
 
 
-
-<p align="center">
-  <img src="docs/images/JalRakshak_Hero1.png" width="800">
-</p>
