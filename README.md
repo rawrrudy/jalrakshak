@@ -141,6 +141,12 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
   <br>
   <em>Visuals of all the probes of JalRakshak.</em>
 </p>
+
+<p align="center">
+  <img src="docs/screenshots/temp1.png" width="700">
+  <br>
+  <em>Demo prototype of screen of JalRakshak.</em>
+</p>
 </details>
 
 
