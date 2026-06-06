@@ -102,6 +102,7 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
   <br>
   <em>Deployed image of a JalRakshak model</em>
 </p>
+</details>
 
 <details>
 <summary><b> Dashboard </b></summary>
@@ -113,6 +114,7 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
   <br>
   <em>Frontend dashboard of JalRakshak website.</em>
 </p>
+
 
 
 
