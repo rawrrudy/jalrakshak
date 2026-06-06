@@ -56,7 +56,7 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 
 # PCB
 <p align="center">
-  <img src="hardware/pcb/JalRakshak_PCB.png" width="600">
+  <img src="hardware/pcb/JalRakshak_PCB.png" width="500">
 </p>
 
 
