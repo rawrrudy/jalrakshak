@@ -44,6 +44,16 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 
 # Key Features
 
+- ESP32 microcontroller with integrated Wi-Fi
+- Analyses Temperature, TDS, Turbidity, pH and Water Level
+- Sends an alert via email when safety threshold is exceeded
+- Custom designed PCB for sensor integration
+- DS18B20 waterproof temperature sensor
+- DFRobot Gravity pH and TDS sensor
+- SEN0189 turbidity sensing for water clarity check
+- HC-SR04 ultrasonic water level measurement
+- Custom CAD optimised to float on water
+
 
 
 
