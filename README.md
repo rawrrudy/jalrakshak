@@ -14,14 +14,14 @@
 
 # Index
 
-### What is JalRakshak?
-### Why was JalRakshak made?
-### Key Features
-### PCB 
-### Images 
-### How to Run?
-### Credits
-### License
+### [What is JalRakshak?](#what-is-jalrakshak)
+### [Why was JalRakshak made?](#why-was-jalrakshak-made)
+### [Key Features](#key-features)
+### [PCB](#pcb)
+### [Images](#images)
+### [How to Run?](#how-to-run)
+### [Credits](#credits)
+### [License](#license)
 
 
 
