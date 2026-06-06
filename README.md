@@ -102,7 +102,17 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
   <br>
   <em>Deployed image of a JalRakshak model</em>
 </p>
-  
+
+<details>
+<summary><b> Dashboard </b></summary>
+
+<br>
+
+<p align="center">
+  <img src="docs/screenshots/dashboard.png" width="700">
+  <br>
+  <em>Frontend dashboard of JalRakshak website.</em>
+</p>
 
 
 
