@@ -94,7 +94,14 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
   <br>
   <em>Exploded view showing internal components.</em>
 </p>
-  
+
+<br>
+
+<p align="center">
+  <img src="docs/images/JalRakshak_FinalIMG.png" width="700">
+  <br>
+  <em>Deployed image of a JalRakshak model</em>
+</p>
   
 
 
