@@ -7,3 +7,7 @@
 <p align="center">
   Water Monitoring Device
 </p>
+
+<p align="center">
+  An ESP-32 powered "floating" water monitoring device with pH, Temperature, TDS and Turbidity sensors!
+</p>
