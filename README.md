@@ -178,7 +178,7 @@ Please check the [BOM](BOM.csv) before building this project!
 
 ### Hardware Assembly
 
-1. Fabricate or order the JalRakshak PCB using the provided Gerber files.
+1. Fabricate or order the JalRakshak PCB using the provided [Gerber](hardware/gerbers) files.
 2. Solder the ESP32 and supporting components onto the PCB.
 3. Connect the sensors to their designated headers:
    - pH Sensor
