@@ -165,6 +165,29 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 
 # How to Run?
 
+### Hardware Assembly
+
+1. Fabricate or order the JalRakshak PCB using the provided Gerber files.
+2. Solder the ESP32 and supporting components onto the PCB.
+3. Connect the sensors to their designated headers:
+   - pH Sensor
+   - TDS Sensor
+   - Turbidity Sensor
+   - DS18B20 Temperature Sensor
+   - HC-SR04 Ultrasonic Sensor
+4. Mount the PCB inside the enclosure.
+5. Route the sensor cables through the enclosure openings.
+6. Secure all components and close the enclosure.
+
+### Firmware Installation 
+
+1. Open the Arduino IDE.
+2. Install ESP32 board support through the Board Manager.
+3. Install the required libraries:
+   - OneWire
+   - DallasTemperature
+4. Open firmware/jalrakshak_main.ino
+5. Upload the firmware to the ESP32.
 
 
 
