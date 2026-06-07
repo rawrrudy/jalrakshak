@@ -2,6 +2,7 @@
 
 Source CAD was created in SketchUp.
 
-- JalRakshak.skp (source file)
+- JalRakshak_Exploded.skp (source file)
+- JalRakshak_Final.skp (source file)
 - JalRakshak_Final.stp
 - JalRakshak_Exploded.stp
