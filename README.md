@@ -21,7 +21,7 @@
 #### [4) Key Features](#key-features)
 #### [5) PCB](#pcb)
 #### [6) Images](#images)
-#### [7) How to Run?](#how-to-run)
+#### [7) How to Build and Run?](#how-to-build-and-run)
 #### [8) Credits](#credits)
 #### [9) License](#license)
 
@@ -170,7 +170,7 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 </p>
 </details>
 
-# How to Run?
+# How to Build and Run?
 
 >⚠️ Note: At the time of writing, JalRakshak is in the prototype development stage. The assembly and deployment instructions below describe the intended hardware workflow based on the completed PCB, CAD enclosure and firmware design.
 
