@@ -237,6 +237,19 @@ Refer to the PCB schematic and wiring diagram in the `hardware/pcb` directory fo
 ```bash
 cd backend
 ```
+2. Create and activate a Python virtual environment.
+```bash
+python -m venv venv
+```
+3. Install dependencies.
+```bash
+pip install -r requirements.txt
+```
+4. Configure PostgreSQL credentials.
+5. Start the FastAPI server.
+```bash
+uvicorn app.main:app --reload
+```
 
 </details>
 
