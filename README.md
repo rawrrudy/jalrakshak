@@ -230,6 +230,16 @@ Refer to the PCB schematic and wiring diagram in the `hardware/pcb` directory fo
 
 </details>
 
+<details>
+<summary><b> Backend Setup </b></summary>
+
+1. Navigate to the backend directory.
+```bash
+cd backend
+```
+
+</details>
+
 ### Operation
 
 1. Power on the device.
