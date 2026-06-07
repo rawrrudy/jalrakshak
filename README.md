@@ -210,6 +210,26 @@ Please check the [BOM](BOM.csv) before building this project!
 
 </details>
 
+<details>
+<summary><b> Wiring </b></summary>
+
+<br>
+
+Connect all sensors to the custom JalRakshak PCB according to the schematic available in the repository.
+
+| Component | Connection Type |
+|------------|----------------|
+| pH Sensor | Analog Input |
+| TDS Sensor | Analog Input |
+| Turbidity Sensor | Analog Input |
+| DS18B20 Temperature Sensor | Digital GPIO |
+| HC-SR04 Ultrasonic Sensor | Trigger/Echo GPIO |
+| ESP32 | Main Controller |
+
+Refer to the PCB schematic and wiring diagram in the `hardware/pcb` directory for detailed pin mappings.
+
+</details>
+
 ### Operation
 
 1. Power on the device.
