@@ -165,6 +165,8 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 
 # How to Run?
 
+⚠️ Note: At the time of writing, JalRakshak is in the prototype development stage. The assembly and deployment instructions below describe the intended hardware workflow based on the completed PCB, CAD enclosure and firmware design.
+
 ### Hardware Assembly
 
 1. Fabricate or order the JalRakshak PCB using the provided Gerber files.
