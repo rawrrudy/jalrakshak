@@ -15,14 +15,21 @@
 
 # Index
 
-#### [1) What is JalRakshak?](#what-is-jalrakshak)
-#### [2) Why was JalRakshak made?](#why-was-jalrakshak-made)
-#### [3) Key Features](#key-features)
-#### [4) PCB](#pcb)
-#### [5) Images](#images)
-#### [6) How to Run?](#how-to-run)
-#### [7) Credits](#credits)
-#### [8) License](#license)
+#### [1) JalRakshak Zine](#jalrakshak-zine)
+#### [2) What is JalRakshak?](#what-is-jalrakshak)
+#### [3) Why was JalRakshak made?](#why-was-jalrakshak-made)
+#### [4) Key Features](#key-features)
+#### [5) PCB](#pcb)
+#### [6) Images](#images)
+#### [7) How to Run?](#how-to-run)
+#### [8) Credits](#credits)
+#### [9) License](#license)
+
+# JalRakshak Zine
+
+<p align="center">
+  <img src="JalRakshak_Zine.png" width="800">
+</p>
 
 # What is JalRakshak?
 
