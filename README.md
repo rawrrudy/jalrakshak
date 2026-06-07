@@ -253,7 +253,33 @@ uvicorn app.main:app --reload
 
 </details>
 
-### Operation
+<details>
+<summary><b> Dashboard setup </b></summary>
+
+<br>
+
+1. Navigate to the frontend directory.
+```bash
+cd frontend
+```
+2. Install dependencies.
+```bash
+npm install
+```
+3. Start the development server.
+```bash
+npm run dev
+```
+6. Open the URL displayed in the terminal.
+7. Ensure the backend server is running and connected to the database.
+8. Verify that live sensor readings are visible on the dashboard.
+
+</details>
+
+<details>
+<summary><b> Operation </b></summary>
+
+<br>
 
 1. Power on the device.
 2. Place JalRakshak on the water surface.
@@ -266,6 +292,7 @@ uvicorn app.main:app --reload
    - Turbidity
    - Water Level
 6. Voila! Your very own version of JalRakshak is prepared!
+</details>
 
 # Credits
 
