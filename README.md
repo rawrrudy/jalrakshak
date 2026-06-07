@@ -177,7 +177,7 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 Please check the [BOM](BOM.csv) before building this project!
 
 <details>
-<summary><b>Hardware</b></summary>
+<summary><b> Hardware </b></summary>
 
 <br>
 
@@ -195,7 +195,10 @@ Please check the [BOM](BOM.csv) before building this project!
 
 </details>
 
-### Firmware Installation 
+<details>
+<summary><b> Firmware Installation </b></summary>
+
+<br>
 
 1. Open the Arduino IDE.
 2. Install ESP32 board support through the Board Manager.
@@ -204,6 +207,8 @@ Please check the [BOM](BOM.csv) before building this project!
    - DallasTemperature
 4. Open firmware/jalrakshak_main.ino
 5. Upload the firmware to the ESP32.
+
+</details>
 
 ### Operation
 
