@@ -205,6 +205,15 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
    - Water Level
 6. Voila! Your very own version of JalRakshak is prepared!
 
+# Credits
+
+I would like to thank-
+[KiCad](https://www.kicad.org/)
+[Arduino](https://www.arduino.cc/)
+[HackClub Fallout](https://fallout.hackclub.com/)
+[SketchUp](https://www.sketchup.com/)
+
+
 
 
 
