@@ -189,6 +189,20 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 4. Open firmware/jalrakshak_main.ino
 5. Upload the firmware to the ESP32.
 
+### Operation
+
+1. Power on the device.
+2. Place JalRakshak on the water surface.
+3. Ensure all sensors are submerged properly.
+4. Open the Serial Monitor at 115200 baud.
+5. Observe live readings for:
+   - pH
+   - TDS
+   - Temperature
+   - Turbidity
+   - Water Level
+6. Voila! Your very own version of JalRakshak is prepared!
+
 
 
 
