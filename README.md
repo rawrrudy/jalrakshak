@@ -176,7 +176,10 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 
 Please check the [BOM](BOM.csv) before building this project!
 
-### Hardware Assembly
+<details>
+<summary><b>Hardware</b></summary>
+
+<br>
 
 1. Fabricate or order the JalRakshak PCB using the provided [Gerber](hardware/gerbers) files.
 2. Solder the ESP32 and supporting components onto the PCB.
@@ -189,6 +192,8 @@ Please check the [BOM](BOM.csv) before building this project!
 4. Mount the PCB inside the enclosure.
 5. Route the sensor cables through the enclosure openings.
 6. Secure all components and close the enclosure.
+
+</details>
 
 ### Firmware Installation 
 
