@@ -28,7 +28,7 @@
 # JalRakshak Zine
 
 <p align="center">
-  <img src="JalRakshak_Zine.png" width="800">
+  <img src="jalrakshak_zine.pdf" width="800">
 </p>
 
 # What is JalRakshak?
