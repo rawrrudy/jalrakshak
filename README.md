@@ -63,13 +63,13 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 
 # PCB
 <p align="center">
-  <img src="hardware/pcb/JalRakshak_PCB.png" width="500">
+  <img src="hardware/pcb/Upd_Iso.png" width="500">
 </p>
 <p align="center">
   Fig. 1) Top view of the PCB layout for JalRakshak
 </p>
 <p align="center">
-  <img src="hardware/pcb/JalRakshak_PCB1.png" width="650">
+  <img src="hardware/pcb/Updated_Top.png" width="650">
 </p>
 <p align="center">
   Fig. 2) Manufacturing layout of the PCB design
