@@ -132,14 +132,14 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 </details>
 
 <details>
-<summary><b>3D PCB Visuals</b>b</summary>
+<summary><b>3D PCB Visuals</b></summary>
 
 <br>
 
 <p align="center">
-  <img src="docs/images/PCB1.png" width="700">
-  <img src="docs/images/PCB2.png" width="700">
-  <img src="docs/images/PCB3.png" width="700">
+  <img src="docs/images/Updated_3D_1.png" width="700">
+  <img src="docs/images/Updated_3D_2.png" width="700">
+  <img src="docs/images/Updated_3D_3.png" width="700">
   <br>
   <em>Visuals of 3D version of PCB.</em>
 </p>
