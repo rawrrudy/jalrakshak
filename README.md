@@ -89,7 +89,7 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 <br>
 
 <p align="center">
-  <img src="docs/images/JalRakshak_Final_Side.png" width="700">
+  <img src="docs/images/JR-03.png" width="700">
   <br>
   <em>Fully assembled JalRakshak enclosure.</em>
 </p>
