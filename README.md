@@ -158,7 +158,7 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 </p>
 
 <p align="center">
-  <img src="docs/images/JalRakshak_Final_BottomView.png" width="700">
+  <img src="docs/images/JR-Down.png" width="700">
   <br>
   <em>Visuals of all the probes of JalRakshak.</em>
 </p>
