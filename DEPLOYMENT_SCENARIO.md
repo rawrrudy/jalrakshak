@@ -48,5 +48,52 @@ Sensors ⟶ ESP32 Controller ⟶ WiFi Network ⟶ JalRakshak Backend ⟶ Postgre
 
 ## Alert Scenarios
 
+### Unsafe Water Quality
+
+If any sensor detects values outside safe limits, for example:
+
+- Unsafe pH levels
+- Excessive turbidity
+- Elevated TDS Levels
+
+The system immediately generates an alert and notifies responsible stakeholders through email.
+
+### Flood Risk
+
+If water levels rise beyond predefined thresholds:
+
+- Flood warnings are generated
+- Authorities can take preventive action
+
+### Low Water Levels
+
+If water levels fall below critical levels:
+
+- Water conservation measures can be initiated
+- Resource planning becomes easier.
+
+## Expected benefits
+
+### Public Health
+
+Consumption of contaminated and unsafe water can be extremely harmful, and can sometimes also lead to death. JalRakshak tries and prevents such tragedies from occuring by continously monitoring and updating the quality of a particular water source hence keeping the consumers safe from potential adverse health effects.
+
+### Resource Management
+
+JalRakshak also contributes massively into managing our existing resources tactfully and sustainably by better monitoring during monsoon and summer seasons, and improving planning during drought conditions.
+
+## Estimated Annual Impact
+
+For a village of approximately 500 residents,
+
+- Continous monitoring of critical water sources
+- Immediate detection of unsafe water conditions
+- Improved awareness of water quality trends
+- Faster response to contamination and flooding events
+
+## Conclusion
+
+At the beginning, this project felt like a huge deal but gradyally I enjoyed the process of bringing JalRakshak to life. It illustrates how even low cost IoT technology can provide continous water monitoring for rural communities, potentially saving people from suffering from adverse diseases and in some cases, saving lives.
+
 
 
