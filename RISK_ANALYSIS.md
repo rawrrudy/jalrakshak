@@ -4,7 +4,7 @@ I have created this document to identify any potential failure that may occur du
 
 The objective is to ensure continous monitoring of water bodies while minimizing the downtime, inaccurate readings, and potential hardware failures.
 
-### Failure Mode Assessment
+## Failure Mode Assessment
 
 | Failure Mode | Cause | Impact | Severity | Mitigation Strategy |
 |--------------|-------|--------|----------|---------------------|
@@ -18,3 +18,15 @@ The objective is to ensure continous monitoring of water bodies while minimizing
 | PCB Water Ingress | Enclosure Leakage | Short circuit and hardware damage | High | Waterproof enclosure and sealing gaskets |
 | Corrosion of Components | Continous exposure to moisture | Reduced hardware lifespan | Medium | Corrosion resistant materials and coatings |
 | Backend Server Downtime | Hosting or infrastructure issues | Dashboard unavailable | Medium | Cloud deployment and periodic backups |
+
+## Reliability  Measures Implemented
+
+The following reliability measures have already been incorporated into JalRakshak!
+
+- Automatic email alerts for unsafe water conditions
+- Battery level monitoring
+- Modular PCB architecture
+- Cloud based backend for centralised monitoring
+- Continous sensor data collection
+- Status classification into Safe, Warning and Danger
+
