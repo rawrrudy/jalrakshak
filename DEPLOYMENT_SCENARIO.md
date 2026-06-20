@@ -20,11 +20,45 @@ In many rural areas of the world, water is a very scarce and precious resource a
 
 As a result, communities may not receive timely warnings about unsafe water conditions.
 
-# Proposed JalRakshak Deployment
+## Proposed JalRakshak Deployment
 
 | Deployment Area | Devices |
 |-----------------|---------|
 | Main Community Pond | 1 |
 | Secondary Storage Pond | 1 |
 | Irrigation Reservoir | 1 |
+
+Total Devices Required: 3
+
+## Monitoring Parameters
+
+Each JalRakshak unit continously monitors:
+
+- Water Temperature
+- Water Level
+- pH
+- Total Dissolved Solids (TDS)
+- Turbidity
+
+Sensor readings are transmitted to the JalRakshak backend through WiFi connectivity.
+
+## Data Flow
+
+Sensors
+   ↓
+ESP32 Controller
+   ↓
+WiFi Network
+   ↓
+JalRakshak Backend
+   ↓
+PostgreSQL Database
+   ↓
+Monitoring Dashboard
+   ↓
+Email Alerts
+
+## Alert Scenarios
+
+
 
