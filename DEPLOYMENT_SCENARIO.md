@@ -44,19 +44,7 @@ Sensor readings are transmitted to the JalRakshak backend through WiFi connectiv
 
 ## Data Flow
 
-Sensors
-   ↓
-ESP32 Controller
-   ↓
-WiFi Network
-   ↓
-JalRakshak Backend
-   ↓
-PostgreSQL Database
-   ↓
-Monitoring Dashboard
-   ↓
-Email Alerts
+Sensors ⟶ ESP32 Controller ⟶ WiFi Network ⟶ JalRakshak Backend ⟶ PostgreSQL Database ⟶ Monitoring Dashboard ⟶ Email Alerts
 
 ## Alert Scenarios
 
