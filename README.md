@@ -97,7 +97,7 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 <br>
 
 <p align="center">
-  <img src="docs/images/JalRakshak-Exploded-Upd02.png" width="700">
+  <img src="docs/images/ExplodedV3.png" width="700">
   <br>
   <em>Exploded view showing internal components.</em>
 </p>
