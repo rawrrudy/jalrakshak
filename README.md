@@ -226,6 +226,10 @@ Connect all sensors to the custom JalRakshak PCB according to the schematic avai
 | HC-SR04 Ultrasonic Sensor | Trigger/Echo GPIO |
 | ESP32 | Main Controller |
 
+<p align="center"> 
+  <img src="docs/images/Wiring.png" width="400"> 
+</p>
+
 Refer to the PCB schematic and wiring diagram in the `hardware/pcb` directory for detailed pin mappings.
 
 </details>
