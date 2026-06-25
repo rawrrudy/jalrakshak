@@ -152,7 +152,7 @@ https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenv
 <br>
 
 <p align="center">
-  <img src="docs/images/JalRakshak-Upd-Label.png" width="700">
+  <img src="docs/images/LabelV3.png" width="700">
   <br>
   <em>Fully labelled visual of JalRakshak.</em>
 </p>
