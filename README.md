@@ -36,7 +36,7 @@
 JalRakshak is an ESP32 powered water quality monitoring device, that continously measures pH, TDS, Turbidity, Temperature and Water Level! It uses a custom built PCB and enclosure to help communities protect lakes, reservoirs and local water bodies.
 
 <p align="center"> 
-  <img src="docs/images/JR-Hero.png" width="400"> 
+  <img src="docs/images/HeroV3.png" width="400"> 
 </p>
 
 <p align="center">
